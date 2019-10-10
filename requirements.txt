@@ -6,3 +6,4 @@ dash_html_components
 ipython
 jupyter_server_proxy
 jupyterlab-dash==0.1.0a3
+pandas
