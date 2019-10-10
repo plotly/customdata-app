@@ -1,8 +1,0 @@
-plotly
-dash
-dash_core_components
-dash_html_components
-ipython
-jupyterlab-dash
-jupyter_server_proxy
-jupyterlab_launcher
