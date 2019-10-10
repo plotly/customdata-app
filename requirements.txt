@@ -1,7 +1,7 @@
+jupyterlab==1.0.0
 plotly
 dash
 dash_core_components
 dash_html_components
 ipython
-jupyterlab>=1.0
 jupyter_server_proxy
