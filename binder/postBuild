@@ -2,4 +2,3 @@
 
 # Install a JupyterLab extension for demonstration purposes
 jupyter serverextension enable jupyter_server_proxy
-jupyter labextension install jupyterlab-dash@0.1.0-alpha.3
